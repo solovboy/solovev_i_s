@@ -1,0 +1,1 @@
+add_executable(0004A 0004A.cpp)
